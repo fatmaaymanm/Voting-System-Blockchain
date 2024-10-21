@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Voting System DApp
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This Dapplication was first created using a solidity smart contract, then it was deployed and its interface was made using react.
+It provides a decentralized and secure volting system deployed on the blockchain ethereum net, which ensures security and anonymity of voters.
 
 ## Available Scripts
 
